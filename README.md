@@ -52,7 +52,7 @@ render automatically on this page._
 
 **Prediction gallery — real test chips, model predictions, correct in green / wrong in red:**
 
-![Prediction gallery](results/4_prediction_gallery.PNG)
+![Prediction gallery](results/4_prediction_gallery.png)
 
 > **Note on EVA-02:** its weak screening result almost certainly reflects a training-recipe
 > mismatch (learning rate / warmup schedule tuned for a different architecture family) rather
