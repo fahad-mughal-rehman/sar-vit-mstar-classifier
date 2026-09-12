@@ -1,0 +1,17 @@
+# data & large artifacts -- don't commit the dataset or trained weights
+data/
+outputs/
+*.pt
+*.pth
+
+# notebook checkpoints
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
