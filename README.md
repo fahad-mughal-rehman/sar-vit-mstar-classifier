@@ -44,15 +44,15 @@ render automatically on this page._
 
 **Training curves for the winning backbone:**
 
-![Training curves](results/2_training_curves.png)
+![Training curves](results/2_training_curves.PNG)
 
 **Confusion matrix (final test-set evaluation):**
 
-![Confusion matrix](results/3_confusion_matrix.png)
+![Confusion matrix](results/3_confusion_matrix.PNG)
 
 **Prediction gallery — real test chips, model predictions, correct in green / wrong in red:**
 
-![Prediction gallery](results/4_prediction_gallery.png)
+![Prediction gallery](results/4_prediction_gallery.PNG)
 
 > **Note on EVA-02:** its weak screening result almost certainly reflects a training-recipe
 > mismatch (learning rate / warmup schedule tuned for a different architecture family) rather
