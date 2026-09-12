@@ -36,11 +36,11 @@ render automatically on this page._
 
 **Class distribution across train/val/test:**
 
-![Class counts](results/0_class_counts.png)
+![Class counts](results/0_class_counts.PNG)
 
 **Backbone comparison (screening round):**
 
-![Backbone comparison](results/1_backbone_comparison.png)
+![Backbone comparison](results/1_backbone_comparison.PNG)
 
 **Training curves for the winning backbone:**
 
